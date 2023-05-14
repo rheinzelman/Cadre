@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3cpA8o7kkg5kdW0cObFNnQwO5+yaL+6Cxdte1/7ZzwhnkltSu483SH0OsHDwf3gA03cFszgvqq8Cu/OqrszR6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ray\\Documents\\C#\\sandbox\\Cadre\\Cadre\\Cadre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ray\\.nuget\\packages\\melanchall.drywetmidi\\6.1.4\\melanchall.drywetmidi.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

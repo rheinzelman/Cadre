@@ -1,0 +1,12 @@
+Procedural music through Bernoulli Percolation:
+Have a N by N grid, each node connected by an edge in a grid pattern.
+Each edge has a uniformly random weight between 0 and 1.
+There is a value p, that gradually increases from 0 to 1.
+When p is greater than the weight of an edge, that edge is removed.
+
+One idea to extend this to music is to map each node to a certain note, and each edge to a certain interval.
+When an edge is removed, the interval is no longer played.
+
+Another idea is to map each node to a note, and when an edge is removed from that node, the note is played. This would be more like a melody.
+
+One last idea to map bernoulli percolation to music is to map each node to a chord, and each edge to a note. When an edge is removed, the note is played. When all edges are removed from a node, the chord is played. This would be like playing chords over a melody. 
